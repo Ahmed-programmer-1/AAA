@@ -1,3 +1,9 @@
 /* إشعارات المنصة — تُدار من admin.html */
 
-window.NOTIFICATIONS = [];
+window.NOTIFICATIONS = [
+  {
+    "title": "تم نزول انمي جديد",
+    "message": "انمي هنتر اكس الموسم الثاني الحلقة رقم 2 شهادها الان!",
+    "date": "2026-08-16"
+  }
+];
