@@ -25,7 +25,9 @@ registerCourse("AAA1", {
     "status": "",
     "country": "",
     "ageRange": "",
-    "releaseDate": [],
+    "releaseDate": [
+      "old"
+    ],
     "grade": ""
   },
   "videos": [
