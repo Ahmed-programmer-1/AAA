@@ -7,6 +7,6 @@ window.SITE_SETTINGS = {
   "footerNote": "المحتوى التعليمي المعروض على المنصة ملك لأصحابه ومقدّمي الكورسات الأصليين؛ هذه المنصة أداة عرض وتنظيم فقط ولا تدّعي ملكية أي مادة تعليمية بها.",
   "reportUrl": "",
   "telegramUrl": "https://t.me/+_UvwpoODEkkwZTg0",
-  "supabaseUrl": "",
-  "supabaseAnonKey": ""
+  "supabaseUrl": "https://vlixjfnliecbxspisgya.supabase.co",
+  "supabaseAnonKey": "sb_publishable_NHx9jOd8DOb-_Z0oTmgN1Q_VE2ToLb0"
 };
