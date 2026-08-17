@@ -21,6 +21,11 @@ registerCourse("AAA17", {
       "title": "الحلقة الاولي",
       "link": "https://anonmp4.art/v/grUHLulNQmi2ayB",
       "description": ""
+    },
+    {
+      "title": "الحلقة 3",
+      "link": "https://ahmed-programmer-1.github.io/jj/admin",
+      "description": ""
     }
   ]
 });
