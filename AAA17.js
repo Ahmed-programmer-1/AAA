@@ -1,5 +1,5 @@
 registerCourse("AAA17", {
-  "img": "https://freeimage.host/i/CLxUjlR",
+  "img": "<a href=\"https://freeimage.host/i/CLxUjlR\"><img src=\"https://iili.io/CLxUjlR.md.jpg\" alt=\"CLxUjlR.md.jpg\" border=\"0\"></a>",
   "name": "دراغون بول ذد كلاي - الموسم الاول",
   "description": "دراغون بول ذد كلاي - الموسم الاول",
   "category": "دراغون بول ذد كلاي",
