@@ -1,0 +1,35 @@
+registerCourse("AAA12", {
+  "img": "AAA15.jpg",
+  "name": "دراغون بول ذد كلاي - الموسم الاول",
+  "description": "دراغون بول ذد كلاي - الموسم الاولنحثنحنثصحخنبخص",
+  "category": "روبانزل",
+  "level": "الموسم الأول",
+  "categories": [],
+  "sortOrder": 999,
+  "menuSection": "",
+  "singleLang": "ar",
+  "info": {
+    "overview": "",
+    "studio": "",
+    "originalLanguage": "",
+    "dubLanguage": "",
+    "creator": "",
+    "startDate": "",
+    "endDate": "",
+    "writer": "",
+    "levelsCount": "",
+    "episodesThisLevel": "",
+    "status": "",
+    "country": "",
+    "ageRange": "",
+    "releaseDate": [],
+    "grade": ""
+  },
+  "videos": [
+    {
+      "title": "الحلقة 1",
+      "link": "https://hanerix.com/stream/AHCliCGltwb8B_jBGdDZbw/kjhhiuahiuhgihdf/1787110366/67301418/master.m3u8",
+      "description": ""
+    }
+  ]
+});
