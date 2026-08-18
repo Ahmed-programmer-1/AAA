@@ -4,6 +4,10 @@ registerCourse("AAA17", {
   "description": "دراغون بول ذد كلاي - الموسم الاول",
   "category": "دراغون بول ذد كلاي",
   "level": "الموسم الأول",
+  "categories": [],
+  "sortOrder": 999,
+  "menuSection": "",
+  "singleLang": "ar",
   "info": {
     "overview": "",
     "studio": "",
@@ -14,17 +18,22 @@ registerCourse("AAA17", {
     "endDate": "",
     "writer": "",
     "levelsCount": "",
-    "episodesThisLevel": ""
+    "episodesThisLevel": "",
+    "status": "",
+    "country": "",
+    "ageRange": "",
+    "releaseDate": [],
+    "grade": ""
   },
   "videos": [
     {
       "title": "الحلقة الاولي",
-      "link": "https://anonmp4.art/v/grUHLulNQmi2ayB",
+      "link": "https://ccdko80.com/videos/c1/EP8.mp4",
       "description": ""
     },
     {
       "title": "الحلقة 3",
-      "link": "https://ahmed-programmer-1.github.io/jj/admin",
+      "link": "https://ccdko80.com/videos/c1/EP2.mp4",
       "description": ""
     }
   ]
