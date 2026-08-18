@@ -1,6 +1,5 @@
 /* ============================================================
-   قائمة الكورسات المنشورة على الصفحة الرئيسية — تُدار تلقائيًا
-   من admin.html. لا داعي لتعديل هذا الملف يدويًا.
+   قائمة الكورسات المنشورة — تُدار تلقائيًا من admin.html.
    ============================================================ */
 
-window.COURSES_LIST = ["AAA1","categories","notifications","polls","schedule","AAA17"];
+window.COURSES_LIST = ["AAA1","categories","notifications","polls","schedule","AAA17","AAA12"];
