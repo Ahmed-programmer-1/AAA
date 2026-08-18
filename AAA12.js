@@ -35,6 +35,11 @@ registerCourse("AAA12", {
       "title": "الحلقة 2",
       "link": "https://hanerix.com/stream/AHCliCGltwb8B_jBGdDZbw/kjhhiuahiuhgihdf/1787110366/67301418/index-f3-v1-a1.m3u8",
       "description": ""
+    },
+    {
+      "title": "الحلقة 3",
+      "link": "https://a-delivery32.mxcontent.net/v2/wlmx3ezxfxgwmv.mp4?s=OMnh4118Z9OLjA96MS66Og&e=1787089091&_t=1787075504",
+      "description": ""
     }
   ]
 });
